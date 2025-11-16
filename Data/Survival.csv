@@ -1,0 +1,379 @@
+Cage_ID,Veg_Type,Pred_Type,Julian_Date,Grasshopper_Count,Spider_Found,Notes
+AH1,Artemisia,Herbivore,20191,0,NA,"2 found dead, wedged"
+AH2,Artemisia,Herbivore,20191,2,NA,"Hole found, patched"
+AH3,Artemisia,Herbivore,20191,1,NA,"For 9-Jul-2020, I set a 5 min timer for looking in each cage. Restock happened Jul-10-2020"
+AH4,Artemisia,Herbivore,20191,3,NA,
+AH5,Artemisia,Herbivore,20191,1,NA,
+AH6,Artemisia,Herbivore,20191,1,NA,"1 found dead, wedged. Hole found, patched"
+AH7,Artemisia,Herbivore,20191,1,NA,"found 1 dead, wedged"
+AP1,Artemisia,Predator,20191,2,0,1 might be MEBI. Saw a MEFE eating mugwort. Got a video. 
+AP2,Artemisia,Predator,20191,1,0,patched holes
+AP3,Artemisia,Predator,20191,1,0,"1 found dead, wedged"
+AP4,Artemisia,Predator,20191,1,0,
+AP5,Artemisia,Predator,20191,1,0,"patched holes, assassin bugs that I can't remove"
+AP6,Artemisia,Predator,20191,1,0,"Found, pulled out a huntsman"
+AP7,Artemisia,Predator,20191,1,0,"Hole found, patched"
+MH1,Mixed,Herbivore,20191,0,NA,"Found, Pulled out wolf spider "
+MH2,Mixed,Herbivore,20191,0,NA,Lots of large holes found
+MH3,Mixed,Herbivore,20191,2,NA,
+MH4,Mixed,Herbivore,20191,1,NA,"1 found dead, wedged"
+MH5,Mixed,Herbivore,20191,0,NA,"Found, pulled out a wolf spider"
+MH6,Mixed,Herbivore,20191,2,NA,"1 found dead, wedged"
+MH7,Mixed,Herbivore,20191,2,NA,1 might be wrong species 
+MP1,Mixed,Predator,20191,1,0,"patched holes, found 1 dead wedged"
+MP2,Mixed,Predator,20191,2,1,
+MP3,Mixed,Predator,20191,1,0,
+MP4,Mixed,Predator,20191,1,1,
+MP5,Mixed,Predator,20191,1,0,Patched hole
+MP6,Mixed,Predator,20191,0,0,patched holes
+MP7,Mixed,Predator,20191,2,0,Solidago stems looks rough
+SH1,Solidago,Herbivore,20191,1,NA,patched holes
+SH2,Solidago,Herbivore,20191,1,NA,
+SH3,Solidago,Herbivore,20191,0,NA,"2 found dead, wedged between mesh and post"
+SH4,Solidago,Herbivore,20191,0,NA,patched hole
+SH5,Solidago,Herbivore,20191,1,NA,"found 1 dead, wedged"
+SH6,Solidago,Herbivore,20191,3,NA,
+SH7,Solidago,Herbivore,20191,1,NA,"found 2 dead, wedged"
+SP1,Solidago,Predator,20191,2,0,
+SP2,Solidago,Predator,20191,0,0,Spotting large Phid johnsoni. Escaped before I could remove. GOT HIM
+SP3,Solidago,Predator,20191,2,1,
+SP4,Solidago,Predator,20191,2,1,"Found, patched holes"
+SP5,Solidago,Predator,20191,1,0,"Hole found, patched"
+SP6,Solidago,Predator,20191,3,0,
+SP7,Solidago,Predator,20191,1,1,"1 found dead, wedged"
+AH1,Artemisia,Herbivore,20197,2,NA,"1 dead, wedged"
+AH2,Artemisia,Herbivore,20197,3,NA,
+AH3,Artemisia,Herbivore,20197,0,NA,Large hole found
+AH4,Artemisia,Herbivore,20197,1,NA,
+AH5,Artemisia,Herbivore,20197,2,NA,
+AH6,Artemisia,Herbivore,20197,1,NA,"Found 1 dead, wedged"
+AH7,Artemisia,Herbivore,20197,2,NA,
+AP1,Artemisia,Predator,20197,2,0,
+AP2,Artemisia,Predator,20197,2,1,
+AP3,Artemisia,Predator,20197,3,0,
+AP4,Artemisia,Predator,20197,2,0,
+AP5,Artemisia,Predator,20197,3,0,Patched hole
+AP6,Artemisia,Predator,20197,2,0,patched holes
+AP7,Artemisia,Predator,20197,2,0,
+MH1,Mixed,Herbivore,20197,2,NA,
+MH2,Mixed,Herbivore,20197,3,NA,
+MH3,Mixed,Herbivore,20197,2,NA,patched holes
+MH4,Mixed,Herbivore,20197,2,NA,"1 dead, wedged"
+MH5,Mixed,Herbivore,20197,1,0,"1 dead, wedged"
+MH6,Mixed,Herbivore,20197,2,NA,"Hole found, patched"
+MH7,Mixed,Herbivore,20197,2,NA,
+MP1,Mixed,Predator,20197,1,0,"Small wolf spider, couldn't get it out; got it!"
+MP2,Mixed,Predator,20197,3,0,patched holes
+MP3,Mixed,Predator,20197,2,1,
+MP4,Mixed,Predator,20197,3,0,"Found 1 dead, wedged"
+MP5,Mixed,Predator,20197,1,1,patched holes
+MP6,Mixed,Predator,20197,4,0,1 extra PIMI in this benchtop 
+MP7,Mixed,Predator,20197,2,1,
+SH1,Solidago,Herbivore,20197,1,NA,
+SH2,Solidago,Herbivore,20197,3,NA,
+SH3,Solidago,Herbivore,20197,2,NA,
+SH4,Solidago,Herbivore,20197,2,NA,
+SH5,Solidago,Herbivore,20197,1,NA,
+SH6,Solidago,Herbivore,20197,1,NA,
+SH7,Solidago,Herbivore,20197,0,NA,Patched very large holes
+SP1,Solidago,Predator,20197,3,0,
+SP2,Solidago,Predator,20197,2,0,"Found 1 dead, wedged"
+SP3,Solidago,Predator,20197,2,0,
+SP4,Solidago,Predator,20197,1,0,"1 dead, wedged. Hole found and patched"
+SP5,Solidago,Predator,20197,2,0,
+SP6,Solidago,Predator,20197,2,1,
+SP7,Solidago,Predator,20197,1,0,Holes patched
+AH1,Artemisia,Herbivore,20204,2,NA,
+AH2,Artemisia,Herbivore,20204,3,NA,
+AH3,Artemisia,Herbivore,20204,3,NA,
+AH4,Artemisia,Herbivore,20204,1,NA,
+AH5,Artemisia,Herbivore,20204,3,NA,
+AH6,Artemisia,Herbivore,20204,2,NA,
+AH7,Artemisia,Herbivore,20204,3,NA,
+AP1,Artemisia,Predator,20204,2,0,
+AP2,Artemisia,Predator,20204,3,1,"PIMI found, was not spotted during HDs"
+AP3,Artemisia,Predator,20204,3,1,
+AP4,Artemisia,Predator,20204,3,0,"Did not restock PIMI, it was seen during the HDs"
+AP5,Artemisia,Predator,20204,4,1,Removed extra MEFE
+AP6,Artemisia,Predator,20204,2,1,"PIMI found, was not spotted during HDs"
+AP7,Artemisia,Predator,20204,3,1,"PIMI found, was not spotted during HDs"
+MH1,Mixed,Herbivore,20204,4,NA,Removed 1 MEFE
+MH2,Mixed,Herbivore,20204,3,NA,
+MH3,Mixed,Herbivore,20204,2,NA,
+MH4,Mixed,Herbivore,20204,3,NA,
+MH5,Mixed,Herbivore,20204,2,NA,
+MH6,Mixed,Herbivore,20204,3,NA,
+MH7,Mixed,Herbivore,20204,3,NA,
+MP1,Mixed,Predator,20204,1,0,
+MP2,Mixed,Predator,20204,3,1,
+MP3,Mixed,Predator,20204,2,1,"PIMI found, was not spotted during HDs"
+MP4,Mixed,Predator,20204,2,1,
+MP5,Mixed,Predator,20204,1,1,
+MP6,Mixed,Predator,20204,2,2,
+MP7,Mixed,Predator,20204,2,1,"PIMI found, was not spotted during HDs"
+SH1,Solidago,Herbivore,20204,3,NA,
+SH2,Solidago,Herbivore,20204,3,NA,
+SH3,Solidago,Herbivore,20204,3,NA,
+SH4,Solidago,Herbivore,20204,3,NA,
+SH5,Solidago,Herbivore,20204,3,NA,
+SH6,Solidago,Herbivore,20204,3,NA,
+SH7,Solidago,Herbivore,20204,3,NA,
+SP1,Solidago,Predator,20204,3,2,
+SP2,Solidago,Predator,20204,2,1,PIMI eating a jumping spider 
+SP3,Solidago,Predator,20204,3,0,"Did not restock PIMI, it was seen during the HDs"
+SP4,Solidago,Predator,20204,3,1,
+SP5,Solidago,Predator,20204,3,1,
+SP6,Solidago,Predator,20204,3,0,"PIMI not found during HDs, was restocked"
+SP7,Solidago,Predator,20204,3,1,
+AH1,Artemisia,Herbivore,20209,2,NA,
+AH2,Artemisia,Herbivore,20209,3,NA,
+AH3,Artemisia,Herbivore,20209,3,NA,
+AH4,Artemisia,Herbivore,20209,3,NA,
+AH5,Artemisia,Herbivore,20209,3,NA,
+AH6,Artemisia,Herbivore,20209,3,NA,
+AH7,Artemisia,Herbivore,20209,3,NA,
+AP1,Artemisia,Predator,20209,2,Not_seen,
+AP2,Artemisia,Predator,20209,1,0,"Found hole, should restock whole cage"
+AP3,Artemisia,Predator,20209,2,Not_seen,
+AP4,Artemisia,Predator,20209,2,Not_seen,
+AP5,Artemisia,Predator,20209,3,2,
+AP6,Artemisia,Predator,20209,3,Not_seen,
+AP7,Artemisia,Predator,20209,3,Not_seen,
+MH1,Mixed,Herbivore,20209,3,NA,
+MH2,Mixed,Herbivore,20209,2,NA,
+MH3,Mixed,Herbivore,20209,3,NA,
+MH4,Mixed,Herbivore,20209,3,NA,
+MH5,Mixed,Herbivore,20209,3,NA,
+MH6,Mixed,Herbivore,20209,1,NA,
+MH7,Mixed,Herbivore,20209,3,NA,
+MP1,Mixed,Predator,20209,2,Not_seen,
+MP2,Mixed,Predator,20209,3,Not_seen,
+MP3,Mixed,Predator,20209,3,Not_seen,
+MP4,Mixed,Predator,20209,2,Not_seen,
+MP5,Mixed,Predator,20209,3,Not_seen,
+MP6,Mixed,Predator,20209,2,1,
+MP7,Mixed,Predator,20209,3,Not_seen,
+SH1,Solidago,Herbivore,20209,3,NA,
+SH2,Solidago,Herbivore,20209,3,NA,
+SH3,Solidago,Herbivore,20209,3,NA,
+SH4,Solidago,Herbivore,20209,3,NA,
+SH5,Solidago,Herbivore,20209,3,NA,
+SH6,Solidago,Herbivore,20209,3,NA,
+SH7,Solidago,Herbivore,20209,3,NA,
+SP1,Solidago,Predator,20209,3,1,
+SP2,Solidago,Predator,20209,3,Not_seen,
+SP3,Solidago,Predator,20209,2,Not_seen,
+SP4,Solidago,Predator,20209,3,Not_seen,
+SP5,Solidago,Predator,20209,3,2,
+SP6,Solidago,Predator,20209,3,1,
+SP7,Solidago,Predator,20209,2,Not_seen,
+AH1,Artemisia,Herbivore,20226,4,NA,"Mugwort 100% dead, grass 95% dead"
+AH2,Artemisia,Herbivore,20226,3,NA,"Mugwort 50%, grass 75% alive"
+AH3,Artemisia,Herbivore,20226,3,NA,"Mugwort good but herbivory evident, grass eaten 50%"
+AH4,Artemisia,Herbivore,20226,0,NA,Mugwort and grass all good
+AH5,Artemisia,Herbivore,20226,2,NA,"Mugwort 20% dead, grass good; restocked"
+AH6,Artemisia,Herbivore,20226,3,NA,"Grass 50% alive, mugwort 80% ALIVE"
+AH7,Artemisia,Herbivore,20226,3,NA,"Mugwort all good, grass 50% dead"
+AP1,Artemisia,Predator,20226,3,1,"75% of grass alive, mugwort 80% dead (only the tops of stems)"
+AP2,Artemisia,Predator,20226,1,1,Mugwort good 75% alive
+AP3,Artemisia,Predator,20226,2,1,"Restocked; Grass alive, mugwort 80% dead"
+AP4,Artemisia,Predator,20226,1,0,"Mugwort 50% alive, grass alive; restocked grasshoppers; hole found and patched"
+AP5,Artemisia,Predator,20226,1,3,"80% mugwort alive, grass alive. Yes there are 3 PIMI in here wtf "
+AP6,Artemisia,Predator,20226,3,1,"Mugwort 80% dead, grass good"
+AP7,Artemisia,Predator,20226,3,1,"Grass alive, 1 whole mugwort stem alive, rest of stems dead except the top 4 inches"
+MH1,Mixed,Herbivore,20226,3,NA,"Mugwort, solidago, grass all fully alive"
+MH2,Mixed,Herbivore,20226,3,NA,Solidago & mugwort & grass alive
+MH3,Mixed,Herbivore,20226,3,NA,All plants alive and happy
+MH4,Mixed,Herbivore,20226,3,NA,"mugwort & grass alive, tall solidago 100% dead, short solidago stems (2) alive"
+MH5,Mixed,Herbivore,20226,3,NA,"Solidago, mugwort, grass all alive. Killed small wolf spider "
+MH6,Mixed,Herbivore,20226,2,NA,Solidago & mugwort alive; restocked grasshopper
+MH7,Mixed,Herbivore,20226,3,NA,"Mugwort 90% dead, solidago all dead"
+MP1,Mixed,Predator,20226,1,1,"Solidago 100% dead, mugwort and grass are fine"
+MP2,Mixed,Predator,20226,3,1,"Mugwort, solidago, grass all fully alive"
+MP3,Mixed,Predator,20226,3,1,Solidago and mugwort herbivory noted but fully alive. Grass good. Hole found and patched. 
+MP4,Mixed,Predator,20226,1,1,"Restocked; 50% of grass alive, solidago alive, mugwort 75% alive"
+MP5,Mixed,Predator,20226,3,0,"Mugwort, solidago, grass all fully alive"
+MP6,Mixed,Predator,20226,2,1,"Solidago 100% dead, mugwort and grass are fine"
+MP7,Mixed,Predator,20226,2,0,"Mugwort 75% alive, grass alive, one solidago stems alive; restocked grasshopperm"
+SH1,Solidago,Herbivore,20226,2,NA,Grass good; solidago 50% dead; restocked
+SH2,Solidago,Herbivore,20226,3,NA,"Solidago fine, grass is fine"
+SH3,Solidago,Herbivore,20226,3,NA,Solidago & grass alive
+SH4,Solidago,Herbivore,20226,3,NA,"Solidago good, grass 25% dead"
+SH5,Solidago,Herbivore,20226,2,NA,Solidago is happy happy. Grass also fine. 
+SH6,Solidago,Herbivore,20226,3,NA,"Solidago alive but heavy herbivory, grass good"
+SH7,Solidago,Herbivore,20226,3,NA,"Solidago fine, grass also fine. "
+SP1,Solidago,Predator,20226,3,2,"Solidago & grass alive. Spotted 2 PIMI, could not remove 1"
+SP2,Solidago,Predator,20226,3,1,"Solidago alive, grass alive"
+SP3,Solidago,Predator,20226,3,1,Solidago & grass alive
+SP4,Solidago,Predator,20226,3,1,"Solidago alive, grass 75% alive"
+SP5,Solidago,Predator,20226,3,1,"Solidago entirely dead, grass good"
+SP6,Solidago,Predator,20226,2,0,Solidago alive; grass alive; restocked grasshopper
+SP7,Solidago,Predator,20226,3,1,"Solidago 75% alive, grass alive"
+AH1,Artemisia,Herbivore,20237,3,NA,
+AH2,Artemisia,Herbivore,20237,4,NA,
+AH2,Artemisia,Herbivore,20237,3,NA,
+AH4,Artemisia,Herbivore,20237,3,NA,
+AH5,Artemisia,Herbivore,20237,3,NA,
+AH6,Artemisia,Herbivore,20237,3,NA,
+AH7,Artemisia,Herbivore,20237,3,NA,
+AP1,Artemisia,Predator,20237,3,1,
+AP2,Artemisia,Predator,20237,3,NA,
+AP3,Artemisia,Predator,20237,4,NA,
+AP3,Artemisia,Predator,20237,3,NA,
+AP4,Artemisia,Predator,20237,3,NA,
+AP5,Artemisia,Predator,20237,3,NA,
+AP6,Artemisia,Predator,20237,3,NA,
+AP7,Artemisia,Predator,20237,3,NA,
+MH1,Mixed,Herbivore,20237,3,NA,
+MH2,Mixed,Herbivore,20237,2,NA,
+MH3,Mixed,Herbivore,20237,3,NA,
+MH4,Mixed,Herbivore,20237,3,NA,
+MH5,Mixed,Herbivore,20237,3,NA,
+MH6,Mixed,Herbivore,20237,1,NA,
+MH7,Mixed,Herbivore,20237,3,NA,
+MP1,Mixed,Predator,20237,3,NA,
+MP2,Mixed,Predator,20237,4,NA,
+MP4,Mixed,Predator,20237,4,NA,
+MP5,Mixed,Predator,20237,3,NA,
+MP6,Mixed,Predator,20237,2,NA,
+MP7,Mixed,Predator,20237,2,NA,
+SH1,Solidago,Herbivore,20237,3,NA,
+SH2,Solidago,Herbivore,20237,3,NA,
+SH3,Solidago,Herbivore,20237,3,NA,
+SH4,Solidago,Herbivore,20237,3,NA,
+SH5,Solidago,Herbivore,20237,3,NA,
+SH6,Solidago,Herbivore,20237,3,NA,
+SH7,Solidago,Herbivore,20237,3,NA,
+SP1,Solidago,Predator,20237,3,NA,
+SP2,Solidago,Predator,20237,2,2,
+SP3,Solidago,Predator,20237,3,NA,
+SP4,Solidago,Predator,20237,3,NA,
+SP5,Solidago,Predator,20237,3,NA,
+SP6,Solidago,Predator,20237,2,2,
+SP7,Solidago,Predator,20237,3,NA,
+AH1,Artemisia,Herbivore,20248,3,NA,Veg 100% dead except like two clovers
+AH2,Artemisia,Herbivore,20248,3,NA,"Some mugwort stems 100% dead, some alive but 100% defoliated"
+AH3,Artemisia,Herbivore,20248,3,NA,Mugwort 100% dead or defoliated
+AH4,Artemisia,Herbivore,20248,3,NA,Mugwort 90% dead; grass good
+AH5,Artemisia,Herbivore,20248,3,NA,Mugwort stems 90% dead; lower stems dead
+AH6,Artemisia,Herbivore,20248,3,NA,All veg good.
+AH7,Artemisia,Herbivore,20248,4,NA,Veg fine
+AP1,Artemisia,Predator,20248,3,1,Mugwort 95% dead. Grass fine.
+AP2,Artemisia,Predator,20248,3,1,Veg good
+AP3,Artemisia,Predator,20248,4,2,Mugwort leaves 100% dead but stems still alive. Grass alive.
+AP4,Artemisia,Predator,20248,3,Not_seen,"Mugwort 50% alive, grass fine "
+AP5,Artemisia,Predator,20248,3,1,Veg good
+AP6,Artemisia,Predator,20248,2,2,Mugwort fully dead
+AP7,Artemisia,Predator,20248,3,1,Mugwort 80% dead
+MH1,Mixed,Herbivore,20248,3,NA,Veg fine
+MH2,Mixed,Herbivore,20248,3,NA,"Veg good, mugwort is defoliated"
+MH2,Mixed,Herbivore,20248,3,NA,Veg good.
+MH3,Mixed,Herbivore,20248,3,NA,Veg fine
+MH4,Mixed,Herbivore,20248,3,NA,"Mugwort fine, 95% of Solidago died. Grass fine."
+MH5,Mixed,Herbivore,20248,2,NA,All veg good.
+MH5,Mixed,Herbivore,20248,3,NA,Veg fine
+MH7,Mixed,Herbivore,20248,3,NA,Solidago and artemisia 100% dead; leaves attached
+MP1,Mixed,Predator,20248,2,2,"Solidago dead, mugwort 50% dead"
+MP2,Mixed,Predator,20248,3,Not_seen,"Veg okay, defoliated somewhat but alive"
+MP3,Mixed,Predator,20248,3,Not_seen,"Veg fine, definitely signs of herbivory. "
+MP4,Mixed,Predator,20248,3,Not_seen,All veg good. Lower mugwort leaves dead
+MP5,Mixed,Predator,20248,3,Not_seen,Veg fine
+MP6,Mixed,Predator,20248,3,1,"Solidago dead, mugwort 75% dead"
+SH1,Solidago,Herbivore,20248,3,NA,"Solidago stems alive, fully defoliated"
+SH2,Solidago,Herbivore,20248,2,NA,Veg fine
+SH4,Solidago,Herbivore,20248,3,NA,"Veg alive, Solidago heavily defoliated"
+SH5,Solidago,Herbivore,20248,3,NA,Veg thriving
+SH6,Solidago,Herbivore,20248,3,NA,Solidago defoliated 100% but stems alive; grass good
+SH7,Solidago,Herbivore,20248,3,NA,Veg fine
+SP1,Solidago,Predator,20248,1,0,Solidago fully defoliated but stems alive; massive hole found
+SP2,Solidago,Predator,20248,3,Not_seen,All veg good.
+SP3,Solidago,Predator,20248,3,1,Veg good. Solidago somewhat defoliate shut alive
+SP4,Solidago,Predator,20248,3,Not_seen,Solidago heavily defoliated but alive
+SP5,Solidago,Predator,20248,3,Not_seen,Solidago 100% defoliated and stems dead
+SP6,Solidago,Predator,20248,3,Not_seen,Solidago thriving
+SP7,Solidago,Predator,20248,3,Not_seen,"Solidago okay, defoliated and lower leaves dying"
+SP7,Solidago,Predator,20248,4,Not_seen,"Veg fine, somewhat defoliated"
+AH1,Artemisia,Herbivore,20254,3,NA,
+AH2,Artemisia,Herbivore,20254,2,NA,
+AH3,Artemisia,Herbivore,20254,3,NA,
+AH4,Artemisia,Herbivore,20254,3,NA,
+AH5,Artemisia,Herbivore,20254,3,NA,
+AH6,Artemisia,Herbivore,20254,3,NA,
+AH7,Artemisia,Herbivore,20254,3,NA,
+AP1,Artemisia,Predator,20254,3,1,
+AP2,Artemisia,Predator,20254,3,1,
+AP3,Artemisia,Predator,20254,3,2,
+AP4,Artemisia,Predator,20254,2,1,
+AP5,Artemisia,Predator,20254,3,Not_seen,
+AP6,Artemisia,Predator,20254,3,1,
+AP7,Artemisia,Predator,20254,2,2,
+MH1,Mixed,Herbivore,20254,3,NA,
+MH2,Mixed,Herbivore,20254,3,NA,
+MH3,Mixed,Herbivore,20254,3,NA,
+MH4,Mixed,Herbivore,20254,3,NA,
+MH5,Mixed,Herbivore,20254,2,NA,
+MH6,Mixed,Herbivore,20254,3,NA,"2, 3rd instar specialist grasshoppers found. Hatched in the last 10 days. Can't remove "
+MH7,Mixed,Herbivore,20254,1,NA,Veg completely dead minus 1-2 stems of grass
+MP1,Mixed,Predator,20254,1,2,
+MP2,Mixed,Predator,20254,2,1,
+MP3,Mixed,Predator,20254,3,1,
+MP4,Mixed,Predator,20254,2,1,
+MP5,Mixed,Predator,20254,4,1,
+MP6,Mixed,Predator,20254,3,2,
+MP7,Mixed,Predator,20254,3,Not_seen,
+SH1,Solidago,Herbivore,20254,4,NA,
+SH2,Solidago,Herbivore,20254,3,NA,
+SH3,Solidago,Herbivore,20254,3,NA,
+SH4,Solidago,Herbivore,20254,3,NA,
+SH5,Solidago,Herbivore,20254,3,NA,
+SH6,Solidago,Herbivore,20254,3,NA,
+SH7,Solidago,Herbivore,20254,3,NA,
+SP1,Solidago,Predator,20254,3,Not_seen,
+SP2,Solidago,Predator,20254,3,1,
+SP3,Solidago,Predator,20254,2,2,
+SP4,Solidago,Predator,20254,3,1,
+SP5,Solidago,Predator,20254,3,Not_seen,
+SP6,Solidago,Predator,20254,3,2,
+SP7,Solidago,Predator,20254,3,1,
+AH1,Artemisia,Herbivore,20270,3,NA,
+AH2,Artemisia,Herbivore,20270,3,NA,
+AH3,Artemisia,Herbivore,20270,5,NA,
+AH4,Artemisia,Herbivore,20270,3,NA,
+AH5,Artemisia,Herbivore,20270,4,NA,
+AH6,Artemisia,Herbivore,20270,2,NA,
+AH7,Artemisia,Herbivore,20270,2,NA,
+AP1,Artemisia,Predator,20270,3,1,
+AP2,Artemisia,Predator,20270,2,1,
+AP3,Artemisia,Predator,20270,1,3,
+AP4,Artemisia,Predator,20270,1,1,
+AP5,Artemisia,Predator,20270,4,3,
+AP6,Artemisia,Predator,20270,2,2,
+AP7,Artemisia,Predator,20270,3,2,
+MH1,Mixed,Herbivore,20270,4,NA,
+MH2,Mixed,Herbivore,20270,4,NA,
+MH3,Mixed,Herbivore,20270,3,NA,
+MH4,Mixed,Herbivore,20270,3,NA,
+MH5,Mixed,Herbivore,20270,3,NA,
+MH6,Mixed,Herbivore,20270,0,NA,
+MH7,Mixed,Herbivore,20270,1,NA,
+MP1,Mixed,Predator,20270,0,1,
+MP2,Mixed,Predator,20270,2,2,
+MP3,Mixed,Predator,20270,3,1,
+MP4,Mixed,Predator,20270,4,2,
+MP5,Mixed,Predator,20270,5,1,
+MP6,Mixed,Predator,20270,3,1,
+MP7,Mixed,Predator,20270,6,2,
+SH1,Solidago,Herbivore,20270,2,NA,
+SH2,Solidago,Herbivore,20270,4,NA,
+SH3,Solidago,Herbivore,20270,3,NA,
+SH4,Solidago,Herbivore,20270,3,NA,
+SH5,Solidago,Herbivore,20270,0,NA,
+SH6,Solidago,Herbivore,20270,2,NA,
+SH7,Solidago,Herbivore,20270,2,NA,
+SP1,Solidago,Predator,20270,3,1,
+SP2,Solidago,Predator,20270,3,1,
+SP3,Solidago,Predator,20270,1,2,
+SP4,Solidago,Predator,20270,3,1,
+SP5,Solidago,Predator,20270,3,1,
+SP6,Solidago,Predator,20270,2,2,
+SP7,Solidago,Predator,20270,3,1,
