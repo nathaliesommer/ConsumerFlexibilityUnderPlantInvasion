@@ -1,13 +1,20 @@
-# Mugwort Research Repository
+# Consumers show flexible refuge use but rigid foraging under plant invasion
+
+*Submitted to Biological Invasions*
+
+Authors: Nathalie R. Sommer, Catherine B. Moore, Oswald J. Schmitz, Julia D. Monk
+
+Code by Nathalie Sommer
+
+This repository contains all data, scripts, and documentation necessary to reproduce the analyses and figures presented in our manuscript. Upon acceptance, this README will be updated with the manuscript DOI.
+
 
 ## Table of Contents
-
-1. [Project Overview](#project-overview)
-2. [Data](#data)
-3. [Script](#script)
-4. [Dependencies and Versions](#dependencies-and-versions)
-5. [Reproducibility Guidelines](#reproducibility-guidelines)
-6. [Contact](#contact)
+- [Project Overview](#project-overview)
+- [Data](#data)
+- [Script](#script)
+- [Dependencies](#dependencies)
+- [Reproducibility](#reproducibility)
 
 ## Project Overview
 
@@ -24,12 +31,12 @@ The analysis includes statistical modeling using linear models, mixed-effects mo
 
 ## Data
 
-The `Data/` directory contains the following CSV files:
+All data is contained with the `Data/` directory in their raw, original form:
 
 - **`HabitatDomains.csv`**: Behavioral observation data including grasshopper location (height, width), perch substrate, and behavior type across different treatment combinations
 - **`InitialAllometry.csv`**: Initial allometric measurements of plants at the start of the experiment
 - **`InitialCover.csv`**: Initial percent cover measurements for Artemisia, Solidago, and Grass by cage
-- **`LeafScan.csv`**: Leaf area measurements from leaf scanning
+- **`LeafScan.csv`**: Leaf area measurements
 - **`MassGain.csv`**: Laboratory mass-gain experiment data tracking individual grasshopper mass over time, including molting events and survival status
 - **`mugwort_cn.csv`**: Carbon and nitrogen content data for plant tissues and soil samples
 - **`PlantHarvest.csv`**: Final biomass measurements from plant harvest at the end of the experiment
@@ -49,9 +56,9 @@ The main analysis script is **`mugwortscript.R`**, which contains all code neces
 5. **Biomass effects**: Linear models examining species-specific and total biomass responses to treatments
 6. **Habitat domains**: Mixed-effects models and linear models examining grasshopper height, habitat use, and foraging substrate preferences
 
-The script includes model diagnostics using DHARMa, post-hoc comparisons using emmeans, and figure generation using ggplot2. All figures are saved to the `Figures/` directory.
+All figures are saved to a `Figures/` directory.
 
-## Dependencies and Versions
+## Dependencies
 
 This analysis requires R and the following R packages:
 
@@ -74,7 +81,7 @@ To reproduce the analyses and figures from this repository:
 
 1. **Set up the working directory**: Ensure your R working directory is set to the repository root (the directory containing `mugwortscript.R` and the `Data/` folder).
 
-2. **Install dependencies**: Install all required R packages as listed in the [Dependencies and Versions](#dependencies-and-versions) section.
+2. **Install dependencies**: Install all required R packages as listed in the [Dependencies](#dependencies) section.
 
 3. **Load the script**: Open `mugwortscript.R` in R or RStudio.
 
@@ -87,10 +94,9 @@ To reproduce the analyses and figures from this repository:
 
 5. **Figure output**: All figures are saved as PNG files in the `Figures/` directory with 300 DPI resolution. The script generates both individual figures and combined multi-panel figures.
 
-**Important notes**:
+**Notes**:
 - The script assumes data files are located in a `Data/` subdirectory relative to the working directory
 - Figure outputs are saved to a `Figures/` subdirectory (this directory should exist or will be created automatically by `ggsave()`)
-- Some model diagnostics are displayed interactively in R and may require manual inspection
 - The script was last updated on 16 July 2025
 
 ## Contact
